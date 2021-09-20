@@ -18,3 +18,12 @@ ul {
 .wrapper {
   height: 100vh;
 }
+
+/* Header */
+header ul {
+  display: flex;
+}
+
+.push-right {
+  margin-left: auto;
+}
