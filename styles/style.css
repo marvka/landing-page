@@ -27,3 +27,11 @@ header ul {
 .push-right {
   margin-left: auto;
 }
+
+header ul li {
+  list-style-type: none;
+}
+
+header ul li a {
+  text-decoration: none;
+}
