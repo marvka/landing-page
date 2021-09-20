@@ -21,6 +21,10 @@ ul {
   flex-direction: column;
 }
 
+.wrapper > * {
+  padding: 0 10vw;
+}
+
 /* Header */
 header {
   background-color: #1f2937;
