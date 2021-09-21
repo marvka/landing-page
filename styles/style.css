@@ -60,6 +60,10 @@ header ul li a,
   color: #e5e7eb;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 .hero-wrapper {
   display: flex;
   background: #1f2937;
