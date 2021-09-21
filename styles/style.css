@@ -60,7 +60,7 @@ header ul li a,
   color: #e5e7eb;
 }
 
-.hero {
+.hero-wrapper {
   display: flex;
   background: #1f2937;
 }
@@ -71,7 +71,7 @@ header ul li a,
   color: #f9faf8;
 }
 
-.hero img {
+.hero-wrapper img {
   /* TODO: Make img scale properly once all sections have been added */
   /* Overrides min-width: auto which is initial on flex items and causes image to not resize */
   min-width: 0;
