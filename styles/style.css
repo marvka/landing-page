@@ -94,6 +94,16 @@ a:hover {
   justify-content: center;
 }
 
+.hero-content button {
+  padding: 0.5em 2em;
+  background-color: var(--btn-color);
+  color: var(--header-logo-color);
+  font-weight: bold;
+  font-size: 1.1em;
+  border: none;
+  border-radius: 10px;
+}
+
 .hero-title {
   font-size: 48px;
   font-weight: 900;
