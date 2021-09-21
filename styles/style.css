@@ -72,6 +72,10 @@ a:hover {
   flex: 1;
 }
 
+.hero-wrapper a {
+  color: #3882f6;
+}
+
 .hero-title {
   font-size: 48px;
   font-weight: extra-bold;
