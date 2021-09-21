@@ -69,6 +69,11 @@ header ul li a {
   color: #f9faf8;
 }
 
+.hero-content > p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
 .hero img {
   /* TODO: Make img scale properly once all sections have been added */
   /* Overrides min-width: auto which is initial on flex items and causes image to not resize */
