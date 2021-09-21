@@ -39,7 +39,6 @@ header ul {
   display: flex;
   align-items: baseline;
   gap: 1em;
-  padding-top: 1em;
 }
 
 .push-right {
