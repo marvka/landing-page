@@ -18,7 +18,8 @@ html {
 }
 
 body,
-ul {
+ul,
+h2 {
   margin: 0;
   padding: 0;
 }
@@ -75,6 +76,7 @@ a:hover {
   display: flex;
   background: var(--dark-blue);
   padding: 96px var(--side-padding);
+  gap: 3em;
 }
 
 .hero-wrapper > * {
@@ -85,6 +87,13 @@ a:hover {
   color: var(--btn-color);
 }
 
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
 .hero-title {
   font-size: 48px;
   font-weight: 900;
@@ -92,7 +101,6 @@ a:hover {
 }
 
 .hero-wrapper img {
-  /* TODO: Make img scale properly once all sections have been added */
   /* Overrides min-width: auto which is initial on flex items and causes image to not resize */
-  max-width: 50%;
+  min-width: 0;
 }
