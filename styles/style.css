@@ -1,3 +1,11 @@
+:root {
+  --side-padding: 14vw;
+  --dark-blue: #1f2937;
+  --secondary-text-color: #e5e7eb;
+  --header-logo-color: #f9faf8;
+  --btn-color: #3882f6;
+}
+
 body,
 html {
   box-sizing: border-box;
@@ -23,16 +31,16 @@ ul {
 }
 
 .wrapper > * {
-  padding: 0 10vw;
+  padding: 0 var(--side-padding);
 }
 
 header {
-  background-color: #1f2937;
+  background-color: var(--dark-blue);
 }
 
 .logo {
   font-size: 24px;
-  color: #f9faf8;
+  color: var(--header-logo-color);
 }
 
 header ul {
@@ -56,7 +64,7 @@ header ul li a {
 header ul li a,
 .hero-content > p {
   font-size: 18px;
-  color: #e5e7eb;
+  color: var(--secondary-text-color);
 }
 
 a:hover {
@@ -65,7 +73,8 @@ a:hover {
 
 .hero-wrapper {
   display: flex;
-  background: #1f2937;
+  background: var(--dark-blue);
+  padding: 96px var(--side-padding);
 }
 
 .hero-wrapper > * {
@@ -73,13 +82,13 @@ a:hover {
 }
 
 .hero-wrapper a {
-  color: #3882f6;
+  color: var(--btn-color);
 }
 
 .hero-title {
   font-size: 48px;
   font-weight: 900;
-  color: #f9faf8;
+  color: var(--header-logo-color);
 }
 
 .hero-wrapper img {
