@@ -16,7 +16,7 @@ ul {
 }
 
 .wrapper {
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
