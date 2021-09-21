@@ -26,7 +26,6 @@ ul {
   padding: 0 10vw;
 }
 
-/* Header */
 header {
   background-color: #1f2937;
 }
@@ -57,7 +56,6 @@ header ul li a {
   color: #e5e7eb;
 }
 
-/* Hero */
 .hero {
   display: flex;
   background: #1f2937;
