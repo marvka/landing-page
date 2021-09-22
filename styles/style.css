@@ -115,3 +115,7 @@ a:hover {
   min-width: 0;
   object-fit: scale-down;
 }
+
+.card-heading {
+  text-align: center;
+}
