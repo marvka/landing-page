@@ -74,6 +74,7 @@ a:hover {
 
 .hero-wrapper {
   display: flex;
+  align-items: center;
   background: var(--dark-blue);
   padding: 96px var(--side-padding);
   gap: 3em;
