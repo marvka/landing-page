@@ -111,9 +111,9 @@ a:hover {
   color: var(--header-logo-color);
 }
 
-.hero-wrapper img {
-  /* Overrides min-width: auto which is initial on flex items and causes image to not resize */
+img {
   min-width: 0;
+  max-width: 100%;
   object-fit: scale-down;
 }
 
