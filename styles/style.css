@@ -133,6 +133,7 @@ img {
 }
 
 .card-img-wrapper {
+  aspect-ratio: 1 /1;
 }
 
 .card-img-wrapper img {
