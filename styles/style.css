@@ -133,24 +133,12 @@ img {
 }
 
 .card-img-wrapper {
-  position: relative;
   width: 100%;
-}
-
-.card-img-wrapper:after {
-  content: "";
-  display: block;
-  padding-bottom: 100%;
 }
 
 .card-img-wrapper img {
   border: 10px solid var(--btn-color);
   border-radius: 10%;
-  position: absolute;
   height: 100%;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
   object-fit: cover;
 }
