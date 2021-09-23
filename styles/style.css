@@ -133,11 +133,6 @@ img {
 }
 
 .card-img-wrapper {
-  border: 10px solid var(--btn-color);
-  border-radius: 10%;
-}
-
-.card-img-wrapper {
   position: relative;
   width: 100%;
 }
@@ -149,15 +144,13 @@ img {
 }
 
 .card-img-wrapper img {
+  border: 10px solid var(--btn-color);
+  border-radius: 10%;
   position: absolute;
   height: 100%;
   top: 0;
   left: 0;
   bottom: 0;
   right: 0;
-}
-
-.card-img-wrapper img {
   object-fit: cover;
-  z-index: -1;
 }
