@@ -161,4 +161,5 @@ img {
 
 .card-img-wrapper img {
   object-fit: cover;
+  z-index: -1;
 }
