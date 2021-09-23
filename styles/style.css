@@ -137,7 +137,6 @@ img {
   border-radius: 10%;
 }
 
-/* Start CSS to make responsive square div based on 100% width */
 .card-img-wrapper {
   position: relative;
   width: 100%;
@@ -157,7 +156,6 @@ img {
   bottom: 0;
   right: 0;
 }
-/* End CSS for responsive square div */
 
 .card-img-wrapper img {
   object-fit: cover;
