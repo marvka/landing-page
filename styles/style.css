@@ -18,10 +18,13 @@ html {
 }
 
 body,
-ul,
-h2 {
+ul {
   margin: 0;
   padding: 0;
+}
+
+.card-heading {
+  margin: 1.5em;
 }
 
 .wrapper {
