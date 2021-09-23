@@ -127,3 +127,7 @@ img {
   gap: 2em;
   padding: 0 5em;
 }
+
+.card {
+  flex: 1;
+}
