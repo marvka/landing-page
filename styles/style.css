@@ -132,6 +132,11 @@ img {
   flex: 1;
 }
 
+.card-img-wrapper {
+  border: 10px solid var(--btn-color);
+  border-radius: 10%;
+}
+
 /* Start CSS to make responsive square div based on 100% width */
 .card-img-wrapper {
   position: relative;
