@@ -148,7 +148,7 @@ img {
 }
 
 .card-img-wrapper img {
-  border: 3px solid var(--btn-color);
+  border: 5px solid var(--btn-color);
   border-radius: 10%;
   height: 100%;
   object-fit: cover;
