@@ -156,6 +156,7 @@ img {
 
 .quote-wrapper {
   display: flex;
+  background: var(--dark-gray);
   flex-flow: column;
   padding: 0 22.5vw 5em;
 }
