@@ -167,3 +167,7 @@ img {
   font-style: italic;
   color: var(--dark-blue);
 }
+
+.quote-author {
+  align-self: flex-end;
+}
