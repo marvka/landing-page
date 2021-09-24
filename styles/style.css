@@ -161,6 +161,7 @@ img {
   flex-flow: column;
   align-items: center;
   justify-content: center;
+  height: 400px;
   padding: 0 25vw;
 }
 
