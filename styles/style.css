@@ -160,3 +160,10 @@ img {
   flex-flow: column;
   padding: 0 22.5vw 5em;
 }
+
+.quote-text {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: var(--dark-blue);
+}
