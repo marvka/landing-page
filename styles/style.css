@@ -124,6 +124,10 @@ img {
   object-fit: scale-down;
 }
 
+.card-section-wrapper {
+  margin-bottom: 5em;
+}
+
 .card-heading {
   text-align: center;
 }
