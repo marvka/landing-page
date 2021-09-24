@@ -159,6 +159,8 @@ img {
   display: flex;
   background: var(--dark-gray);
   flex-flow: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .quote-text {
