@@ -29,7 +29,6 @@ p {
 .card-heading {
   margin: 0.9em;
   font-size: 36px;
-  font-weight: 900;
   color: #1f2937;
 }
 
@@ -122,8 +121,13 @@ button {
 
 .hero-heading {
   font-size: 48px;
-  font-weight: 900;
   color: var(--header-logo-color);
+}
+
+.hero-heading,
+.logo,
+.card-heading {
+  font-weight: 900;
 }
 
 img {
