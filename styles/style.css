@@ -89,7 +89,8 @@ a:hover {
   display: flex;
   align-items: center;
   background: var(--dark-blue);
-  padding: 96px var(--side-padding);
+  padding: 0 var(--side-padding);
+  height: 500px;
   gap: 3em;
 }
 
