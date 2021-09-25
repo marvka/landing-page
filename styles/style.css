@@ -181,3 +181,7 @@ img {
 section.cta-wrapper {
   height: 300px;
 }
+
+.cta-outer {
+  background: var(--btn-color);
+}
