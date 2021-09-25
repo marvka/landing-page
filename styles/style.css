@@ -1,7 +1,7 @@
 :root {
   --side-padding: 14vw;
   --dark-blue: #1f2937;
-  --dark-gray: #e5e7eb;
+  --gray: #e5e7eb;
   --header-logo-color: #f9faf8;
   --btn-color: #3882f6;
 }
@@ -75,7 +75,7 @@ header ul li a {
 header ul li a,
 .hero-content > p {
   font-size: 18px;
-  color: var(--dark-gray);
+  color: var(--gray);
 }
 
 a:hover {
@@ -163,7 +163,7 @@ img {
 
 .quote-wrapper {
   display: flex;
-  background: var(--dark-gray);
+  background: var(--gray);
   flex-flow: column;
   align-items: center;
   justify-content: center;
