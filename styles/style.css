@@ -185,7 +185,7 @@ section.cta-wrapper {
   color: var(--header-logo-color);
 }
 
-.cta-outer {
+.cta-inner {
   background: var(--btn-color);
   width: 100%;
 }
