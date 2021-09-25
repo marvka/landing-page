@@ -116,6 +116,7 @@ button {
 
 .hero-content button {
   border: none;
+  margin-top: 0.5em;
 }
 
 .hero-heading {
