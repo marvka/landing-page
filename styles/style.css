@@ -183,7 +183,7 @@ img {
 }
 
 section.cta-wrapper {
-  height: 300px;
+  height: 350px;
   display: flex;
   align-items: center;
   color: var(--header-logo-color);
