@@ -89,7 +89,6 @@ a:hover {
   display: flex;
   align-items: center;
   background: var(--dark-blue);
-  padding: 0 var(--side-padding);
   height: 500px;
   gap: 3em;
 }
@@ -129,11 +128,10 @@ button {
 }
 
 img {
-  min-width: 0;
   max-width: 100%;
 }
 
-.card-section-wrapper {
+.card-wrapper {
   height: 450px;
 }
 
@@ -141,14 +139,14 @@ img {
   text-align: center;
 }
 
-.card-wrapper {
+.card-outer {
   display: flex;
   text-align: center;
   gap: 50px;
   padding: 0 5em;
 }
 
-.card {
+.card-inner {
   flex: 1;
 }
 
@@ -167,7 +165,6 @@ img {
   display: flex;
   background: var(--gray);
   flex-flow: column;
-  align-items: center;
   justify-content: center;
   height: 400px;
   padding: 0 25vw;
@@ -175,7 +172,6 @@ img {
 
 .quote-text {
   font-size: 36px;
-  font-weight: lighter;
   font-style: italic;
   color: var(--dark-blue);
 }
