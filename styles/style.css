@@ -180,6 +180,7 @@ img {
 
 section.cta-wrapper {
   height: 300px;
+  color: var(--header-logo-color);
 }
 
 .cta-outer {
