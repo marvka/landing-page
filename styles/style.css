@@ -44,8 +44,9 @@ p {
   padding: 0 var(--side-padding);
 }
 
-header {
+.wrapper > header {
   background-color: var(--dark-blue);
+  padding-top: 1.5em;
 }
 
 .logo {
