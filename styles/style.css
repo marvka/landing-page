@@ -193,6 +193,7 @@ section.cta-wrapper {
   background: var(--btn-color);
   width: 100%;
   padding: 50px 125px;
+  border-radius: 8px;
   display: flex;
   justify-content: space-between;
   align-items: center;
