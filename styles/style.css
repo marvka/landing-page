@@ -107,7 +107,7 @@ button {
   background-color: var(--btn-color);
   color: var(--header-logo-color);
   font-weight: bold;
-  font-size: 1.1em;
+  font-size: 1em;
   border-radius: 10px;
   white-space: nowrap;
 }
