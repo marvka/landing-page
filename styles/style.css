@@ -177,3 +177,7 @@ img {
   font-weight: bold;
   font-size: 24px;
 }
+
+section.cta-wrapper {
+  height: 300px;
+}
