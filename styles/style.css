@@ -183,6 +183,7 @@ img {
   align-self: flex-end;
   font-weight: bold;
   font-size: 24px;
+  padding-right: 2em;
 }
 
 section.cta-wrapper {
