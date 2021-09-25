@@ -56,7 +56,7 @@ p {
 header ul {
   display: flex;
   align-items: baseline;
-  gap: 1em;
+  gap: 2em;
 }
 
 .push-right {
