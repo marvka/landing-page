@@ -211,6 +211,10 @@ section.cta-wrapper {
   border: 2px solid var(--header-logo-color);
 }
 
+.cta-text > h3 {
+  font-size: 28px;
+}
+
 footer {
   display: flex;
   height: 6em;
