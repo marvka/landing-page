@@ -144,7 +144,7 @@ img {
 .card-wrapper {
   display: flex;
   text-align: center;
-  gap: 2em;
+  gap: 50px;
   padding: 0 5em;
 }
 
