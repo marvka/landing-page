@@ -205,5 +205,6 @@ section.cta-wrapper {
 }
 
 footer {
+  display: flex;
   height: 6em;
 }
