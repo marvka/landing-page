@@ -67,14 +67,14 @@ header ul li {
   list-style-type: none;
 }
 
-header ul li a {
+a {
+  color: var(--gray);
   text-decoration: none;
 }
 
 header ul li a,
 .hero-content > p {
   font-size: 18px;
-  color: var(--gray);
 }
 
 a:hover {
