@@ -187,4 +187,5 @@ section.cta-wrapper {
 
 .cta-outer {
   background: var(--btn-color);
+  width: 100%;
 }
