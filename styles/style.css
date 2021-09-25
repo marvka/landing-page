@@ -206,6 +206,8 @@ section.cta-wrapper {
 footer {
   display: flex;
   height: 6em;
+  background-color: var(--dark-blue);
   align-items: center;
   justify-content: center;
+  color: var(--header-logo-color);
 }
